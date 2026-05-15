@@ -53,3 +53,19 @@ python 'run_relation.py' \
     --dev_file {dev_file} \
     --test_file {test_file}
 ```
+
+---
+
+## Citation
+If you use our code/data, please considering citing our paper:
+
+```bibtex
+@inproceedings{jiang2025relation,
+  title={Relation Extraction with Instance-Adapted Predicate Descriptions},
+  author={Jiang, Yuhang and Kavuluru, Ramakanth},
+  booktitle={Proceedings of the AMIA Annual Symposium},
+  pages={546--555},
+  year={2025}
+}
+```
+
